@@ -1,5 +1,5 @@
 module github.com/digitalocean/sample-apt-golang
 
-go 1.18
+go 1.23
 
-require github.com/gofrs/uuid v3.3.0+incompatible
+require github.com/google/uuid v1.6.0
